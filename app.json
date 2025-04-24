@@ -112,7 +112,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "DULLAH-MD;;;H4sIAAAAAAAAA5VV2Y6rRhD9l361J2YxBiyNFMAwxgYbr8BEeWigwW1WQ7PNlf89Ynwnd5TlZsJTq6FOVZ06dfgGshxXaI16MP8GihI3kKDhSPoCgTmQ6zBEJRiDABII5iBdVwojZCkt8YcWC5Rtoql6W+6RZpgO7ni5Gx1bkW1bVngG9zEoai/B/k8AY6+i2F0eWwdyotjl1GjMXFrxypVz8vrNbpyJYre2upwspGdwHxAhLnEWqcUFpaiEyRr1FsTl18pXtIhy1yy9OlaClemaKo42xq4jVbNT165thFFYrhj9HGTx18rfnWWJmiUv7ujqrYxt4i3ZzW2d2l20Nfn13t463LTaWIFFnx7lVzjKUKAHKCOY9F/m3Za5jma3rK15YrLX1KbRpB1ROyqtF0LBJ25S9LfUt0z2i4XrUmjs5dpw5OQ6GgnBLeRWjIyq1l2qfLU+XxkvziTzdDjEnwu3yg+txP+H95tG2/qR3as36Lgcd1YL85U3xOC8WyvSJL1Si5DTkbWNl9HXyh+dHHtTKGFnUrebmx/huZso3b7S4XFjWAxvqlbfmZmcaJ94h6Quf1alljbZ22bN35K3lLTMTsCuUI+sabOk/Nj0FvVFVTccH9lTZpsIu6Uxm8T6QccXUdwelP3R09Uuw+6BOGodHGVfPTp7aff83lGMej0Ac/o+BiWKcEVKSHCeDXfiGMCgOSC/ROSdXMBnq/N1gbWoWR/t5EWkqBUSOePoJTfXSkOy6i86c3TF6Hh6BmNQlLmPqgoFS1yRvOxNVFUwQhWY//Y+p6HlEqU5QSscgDlgOG7GzCiepnn+1+qX9gJJBYvilwwRMAZhmacmAnNS1mgM3gMEXtE0TpgJrCrxDMdIC0XgBZaVBIGXZYYdGkwfSY84RRWBaQHmND/lpsKMF9n772OQoY481DP0zNJjEOKyIqesLpIcBh/S+ngJfT+vM3LoM18ZDqgEc+rHNSIEZ1E1dFZnsPQvuEHK0AeYhzCp0H0MAtRgHw14YNGiJ4tl7L3y1MG6ClNBd+p2YO6SZ49PaMRDjqHQE8d4zNPUY/knz5v5TywNZwElhjORpsBAx2Nxh5h/1dGpoFcn39dtM72wbtRLsdLy1Sak4updCw8BoBIFHyx70I/r4pjHKPuZVxY7e/EWCq+KcvFYEa+mM8RdtOtmR33CfQgLzL/9MEslDwa8s8G+WupBBMO0hjx/U8Nc+Kse7n9yPgQEiECcVIOTbkOhLPKluh4tb6b08iLpkaREEvgxo4+Ne2jaUd8Yr5Gpk6cqluTAOhNG6bW3Nvma0mU9YQRi2MquT6/x8z+AgDlAHUW3sw2f9rqDJ7uibzaKtRGp/cTpbj3kWqd9K5yy2dYvqo6sqlxAO2NcXqxv23MrBivhWsw86zVblgZsQ3N/NGS5fR6yPbTyOdnZUyZ7LdQ3Ttz5C6ZwIc9eHH62Kvb7SR5MW63WKde+Ma8vNsKnbco6r2k4Fd10P9OEQA7TDV5PWxpSpD2zmtJSmF5894J3L0q+/wPw9z19KCvE6N1SMzhM6D9m81nj1H38CeK7R/+LjuRzZ4op3wbaSyddW40pi4lV5ML1DSpEkQ6roDEOdBSbRc6B+7C8RQJJmJcpmAOYBWWOAzAGCayI9GNN/2HzBWoM0l4qigOB5GO7gTQ8i4UL7n8At/2aVn4IAAA=",
       "required": true
     },
     "OWNER_NAME": {
@@ -123,7 +123,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "255626071177"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
