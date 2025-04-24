@@ -1,5 +1,5 @@
 {
-  "name": "ᴅᴜʟʟᴀʜ-xᴍᴅ v²",
+  "name": "CHUI",
   "description": "This BOT was developed by dullah.",
   "keywords": [
     "bot",
@@ -14,7 +14,7 @@
   "env":{
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": ".",
+      "value": "A",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -87,7 +87,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "ᴅᴜʟʟᴀʜ-xᴍᴅ v²",
+      "value": "CHUI MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -97,7 +97,7 @@
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "HEROKU_API_KEY": {
@@ -137,7 +137,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value": "1",
+      "value": "2",
       "required": false
     },
     "ANTI_DELETE_MESSAGE": {
